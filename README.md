@@ -105,12 +105,3 @@ GitHub: repositório com exemplos de scripts, modelos de análise, templates de 
 Portfólio público: 3 estudos de caso (análise geopolítica curta; dashboard Power BI; modelo de cenário financeiro) com imagens e resumo do impacto.
 
 Material de apoio: PDF de amostra de briefing, vídeo de walkthrough do dashboard, depoimentos de clientes-piloto.
-
-Entregáveis recomendados e próximos passos imediatos
-Produto mínimo viável (PMV): briefing semanal de 1–2 páginas + 1 dashboard simples por assinatura mensal.
-
-Preço inicial sugerido (orientativo): briefing único R$100–300; assinatura mensal R$300–1.000 dependendo do escopo; dashboards sob demanda R$400–1.500.
-
-Ação em 7 dias: criar perfil em 1 plataforma freelance + publicar 1 post no LinkedIn com um insight original.
-
-Ação em 30 dias: validar com 3 clientes pagantes, montar GitHub com 2 exemplos e lançar oferta de assinatura.
