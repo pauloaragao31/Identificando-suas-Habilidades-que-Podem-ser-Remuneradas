@@ -1,4 +1,4 @@
-# Identificando-suas-Habilidades-que-Podem-ser-Remuneradas
+# Identificando suas Habilidades que Podem ser Remuneradas
 Identificando suas Habilidades que Podem ser Remuneradas
 Etapa 1 — Inventário de Habilidades (respostas verdadeiras)
 Resumo pessoal
